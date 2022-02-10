@@ -8,23 +8,35 @@ const client = new pg.Client({
     port: 5432
 });
 
-async function createTables(){
+async function createTables() {
     await client.connect();
     await client.query(
         `
         CREATE TABLE IF NOT EXISTS "projects" (
-            "id" SERIAL,
-            "name" VARCHAR(100) NOT NULL,
-            "desc" TEXT NOT NULL,
-            PRIMARY KEY ("id")
+            id SERIAL PRIMARY KEY,
+            name VARCHAR(100) NOT NULL,
+            description TEXT NOT NULL
         );
         
         CREATE TABLE IF NOT EXISTS "projectscountries" (
-            "id" SERIAL,
-            "id_project" INTEGER,
-            "id_country" INTEGER,
-            PRIMARY KEY ("id"),
-            FOREIGN KEY ("id_project") REFERENCES projects ("id")
+            id SERIAL PRIMARY KEY,
+            id_project INTEGER,
+            id_country INTEGER,
+            FOREIGN KEY (id_project) REFERENCES projects (id)
+        );
+        `
+    );
+    client.end();
+}
+
+async function insertProjects(project) {
+    await client.connect();
+    await client.query(
+        `
+        INSERT INTO projects VALUES (
+            DEFAULT,
+            '${project.name}',
+            '${project.description}'
         );
         `
     );

@@ -42,3 +42,17 @@ async function insertProjects(project) {
     );
     client.end();
 }
+
+async function insertProjectCountry(idProjectCountry){
+    await client.connect();
+    await client.query(
+        `
+        INSERT INTO projectscountries VALUES (
+            DEFAULT,
+            '${idProjectCountry.idProject}',
+            '${idProjectCountry.idCountry}'
+        );
+        `
+    )
+    client.end();
+}

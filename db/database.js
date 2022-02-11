@@ -22,7 +22,7 @@ async function createTables() {
             id SERIAL PRIMARY KEY,
             id_project INTEGER,
             id_country INTEGER,
-            FOREIGN KEY (id_project) REFERENCES projects (id)
+            FOREIGN KEY (id_project) REFERENCES projects (id) ON DELETE CASCADE
         );
         `
     );
@@ -43,7 +43,7 @@ async function insertProjects(project) {
     client.end();
 }
 
-async function insertProjectCountry(idProjectCountry){
+async function insertProjectCountry(idProjectCountry) {
     await client.connect();
     await client.query(
         `
@@ -54,5 +54,27 @@ async function insertProjectCountry(idProjectCountry){
         );
         `
     )
+    client.end();
+}
+
+async function deleteProject(idProject) {
+    await client.connect();
+    await client.query(
+        `
+        DELETE FROM projects
+            WHERE id = '${idProject}'
+        `
+    );
+    client.end();
+}
+
+async function deleteProjectCountry(idProjectCountry) {
+    await client.connect();
+    await client.query(
+        `
+        DELETE FROM projectscountries
+            WHERE id_project = '${idProjectCountry.idProject}' AND id_country = '${idProjectCountry.idCountry}'
+        `
+    );
     client.end();
 }

@@ -16,7 +16,6 @@ async function createTables() {
             id SERIAL PRIMARY KEY,
             name VARCHAR(50) NOT NULL,
             status BOOLEAN DEFAULT TRUE,
-            qnt_countries SMALLINT DEFAULT 0,
             creation_date DATE DEFAULT CURRENT_DATE
         );
 
@@ -118,11 +117,22 @@ async function deleteSubGroupCountry(idGroupCountry) {
     client.end();
 }
 
+async function updateSubGroup(idSubGroup, type, newValue) {
+    await client.connect();
+    await client.query(
+        `
+        UPDATE subgroups SET ${type} = '${newValue}' WHERE id = '${idSubGroup}';
+        `
+    );
+    client.end();
+}
+
 //createTables();
-//insertSubGroup({name: ''});
+//insertSubGroup({name: 'Grupo 2'});
 //const c = {id: , acronym: '', name: '', lenguage: '', capital: '', coin: ''};
 //insertCountry(c);
 //insertSubGroupsCountries({idSubGroup: , idCountry: });
 //deleteSubGroupCountry();
 //deleteCountry();
 //deleteSubGroup();
+//updateSubGroup(1, 'status', 'true');

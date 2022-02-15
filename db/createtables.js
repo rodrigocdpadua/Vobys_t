@@ -7,7 +7,7 @@ async function createTables() {
         `
         CREATE TABLE IF NOT EXISTS "subgroups" (
             id SERIAL PRIMARY KEY,
-            name VARCHAR(50) NOT NULL,
+            name VARCHAR(50) NOT NULL UNIQUE,
             status BOOLEAN DEFAULT TRUE,
             creation_date DATE DEFAULT CURRENT_DATE
         );
@@ -18,7 +18,7 @@ async function createTables() {
             name VARCHAR(50) NOT NULL,
             language VARCHAR(20) NOT NULL,
             capital VARCHAR(50) NOT NULL,
-            coin VARCHAR(20) NOT NULL
+            coin VARCHAR(50) NOT NULL
         );
         
         CREATE TABLE IF NOT EXISTS "subgroupscountries" (
@@ -33,4 +33,4 @@ async function createTables() {
     client.end();
 }
 
-export default createTables;
+export default {createTables};

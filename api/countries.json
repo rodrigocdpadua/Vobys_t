@@ -1,0 +1,1546 @@
+[
+    {
+        "id": 20,
+        "acronym": "AD",
+        "name": "Andorra",
+        "language": "Catalão",
+        "capital": "Andorra",
+        "coin": "Euro"
+    },
+    {
+        "id": 784,
+        "acronym": "AE",
+        "name": "Emirados Árabes Unidos",
+        "language": "Árabe",
+        "capital": "Abu Dhabi",
+        "coin": "Dirham dos Emirados Árabes Unidos"
+    },
+    {
+        "id": 4,
+        "acronym": "AF",
+        "name": "Afeganistão",
+        "language": "Pachto",
+        "capital": "Kabul",
+        "coin": "Afegane"
+    },
+    {
+        "id": 28,
+        "acronym": "AG",
+        "name": "Antígua e Barbuda",
+        "language": "Inglês",
+        "capital": "Saint Jonh's",
+        "coin": "Dólar do Caribe Oriental"
+    },
+    {
+        "id": 8,
+        "acronym": "AL",
+        "name": "Albânia",
+        "language": "Albanês",
+        "capital": "Tirana",
+        "coin": "Lek"
+    },
+    {
+        "id": 51,
+        "acronym": "AM",
+        "name": "Armênia",
+        "language": "Armênio",
+        "capital": "Ierevan",
+        "coin": "Dram"
+    },
+    {
+        "id": 24,
+        "acronym": "AO",
+        "name": "Angola",
+        "language": "Português",
+        "capital": "Luanda",
+        "coin": "Kuanza"
+    },
+    {
+        "id": 32,
+        "acronym": "AR",
+        "name": "Argentina",
+        "language": "Espanhol",
+        "capital": "Buenos Aires",
+        "coin": "Peso argentino"
+    },
+    {
+        "id": 40,
+        "acronym": "AT",
+        "name": "Áustria",
+        "language": "Alemão",
+        "capital": "Viena",
+        "coin": "Euro"
+    },
+    {
+        "id": 36,
+        "acronym": "AU",
+        "name": "Austrália",
+        "language": "Inglês",
+        "capital": "Camberra",
+        "coin": "Dólar australiano"
+    },
+    {
+        "id": 31,
+        "acronym": "AZ",
+        "name": "Azerbaijão",
+        "language": "Azerbaijano",
+        "capital": "Baku",
+        "coin": "Manat azerbaijano"
+    },
+    {
+        "id": 70,
+        "acronym": "BA",
+        "name": "Bósnia e Herzegovina",
+        "language": "Bósnio",
+        "capital": "Sarajevo",
+        "coin": "Marco convertível"
+    },
+    {
+        "id": 52,
+        "acronym": "BB",
+        "name": "Barbados",
+        "language": "Inglês",
+        "capital": "Bridgetown",
+        "coin": "Dólar de Barbados"
+    },
+    {
+        "id": 50,
+        "acronym": "BD",
+        "name": "Bangladesh",
+        "language": "Bengali",
+        "capital": "Dacca",
+        "coin": "Taka"
+    },
+    {
+        "id": 56,
+        "acronym": "BE",
+        "name": "Bélgica",
+        "language": "Francês",
+        "capital": "Bruxelas",
+        "coin": "Euro"
+    },
+    {
+        "id": 854,
+        "acronym": "BF",
+        "name": "Burkina Faso",
+        "language": "Francês",
+        "capital": "Ouagadougou",
+        "coin": "Franco CFA"
+    },
+    {
+        "id": 100,
+        "acronym": "BG",
+        "name": "Bulgária",
+        "language": "Búlgaro",
+        "capital": "Sófia",
+        "coin": "Lev"
+    },
+    {
+        "id": 48,
+        "acronym": "BH",
+        "name": "Barein",
+        "language": "Árabe",
+        "capital": "Manama",
+        "coin": "Dinar do Barein"
+    },
+    {
+        "id": 108,
+        "acronym": "BI",
+        "name": "Burundi",
+        "language": "Francês",
+        "capital": "Bujumbura",
+        "coin": "Franco do Burundi"
+    },
+    {
+        "id": 204,
+        "acronym": "BJ",
+        "name": "Benin",
+        "language": "Francês",
+        "capital": "Porto Novo",
+        "coin": "Franco CFA"
+    },
+    {
+        "id": 96,
+        "acronym": "BN",
+        "name": "Brunei",
+        "language": "Malaio",
+        "capital": "Bandar Seri Begawan",
+        "coin": "Dólar do Brunei"
+    },
+    {
+        "id": 68,
+        "acronym": "BO",
+        "name": "Bolívia",
+        "language": "Espanhol",
+        "capital": "La Paz / Sucre",
+        "coin": "Boliviano"
+    },
+    {
+        "id": 76,
+        "acronym": "BR",
+        "name": "Brasil",
+        "language": "Português",
+        "capital": "Brasília",
+        "coin": "Real"
+    },
+    {
+        "id": 44,
+        "acronym": "BS",
+        "name": "Bahamas",
+        "language": "Inglês",
+        "capital": "Nassau",
+        "coin": "Dólar das Bahamas"
+    },
+    {
+        "id": 64,
+        "acronym": "BT",
+        "name": "Butão",
+        "language": "Zoncá",
+        "capital": "Timphu",
+        "coin": "Ngultrum"
+    },
+    {
+        "id": 72,
+        "acronym": "BW",
+        "name": "Botsuana",
+        "language": "Inglês",
+        "capital": "Gaborone",
+        "coin": "Pula"
+    },
+    {
+        "id": 112,
+        "acronym": "BY",
+        "name": "Belarus",
+        "language": "Bielorrusso",
+        "capital": "Minsk",
+        "coin": "Rublo bielorrusso"
+    },
+    {
+        "id": 84,
+        "acronym": "BZ",
+        "name": "Belize",
+        "language": "Inglês",
+        "capital": "Belmopan",
+        "coin": "Dólar do Belize"
+    },
+    {
+        "id": 124,
+        "acronym": "CA",
+        "name": "Canadá",
+        "language": "Inglês",
+        "capital": "Ottawa",
+        "coin": "Dólar canadense"
+    },
+    {
+        "id": 180,
+        "acronym": "CD",
+        "name": "República Democrática do Congo",
+        "language": "Francês",
+        "capital": "Kinshasa",
+        "coin": "Franco Congolês"
+    },
+    {
+        "id": 140,
+        "acronym": "CF",
+        "name": "República Centro Africana",
+        "language": "Francês",
+        "capital": "Bangui",
+        "coin": "Franco CFA"
+    },
+    {
+        "id": 178,
+        "acronym": "CG",
+        "name": "Congo",
+        "language": "Francês",
+        "capital": "Brazzaville",
+        "coin": "Franco CFA"
+    },
+    {
+        "id": 756,
+        "acronym": "CH",
+        "name": "Suíça",
+        "language": "Alemão",
+        "capital": "Berna",
+        "coin": "Franco suíco"
+    },
+    {
+        "id": 384,
+        "acronym": "CI",
+        "name": "Costa do Marfim",
+        "language": "Francês",
+        "capital": "Yamoussoukro / Abidjan",
+        "coin": "Franco CFA"
+    },
+    {
+        "id": 152,
+        "acronym": "CL",
+        "name": "Chile",
+        "language": "Espanhol",
+        "capital": "Santiago",
+        "coin": "Peso chileno"
+    },
+    {
+        "id": 120,
+        "acronym": "CM",
+        "name": "Camarões",
+        "language": "Francês",
+        "capital": "Yaoundê",
+        "coin": "Franco CFA"
+    },
+    {
+        "id": 156,
+        "acronym": "CN",
+        "name": "China",
+        "language": "Mandarim",
+        "capital": "Beijing (Pequim)",
+        "coin": "Yuan renminbi"
+    },
+    {
+        "id": 170,
+        "acronym": "CO",
+        "name": "Colômbia",
+        "language": "Espanhol",
+        "capital": "Bogotá",
+        "coin": "Peso colombiano"
+    },
+    {
+        "id": 188,
+        "acronym": "CR",
+        "name": "Costa Rica",
+        "language": "Espanhol",
+        "capital": "São José",
+        "coin": "Colón costa-riquenho"
+    },
+    {
+        "id": 192,
+        "acronym": "CU",
+        "name": "Cuba",
+        "language": "Espanhol",
+        "capital": "Havana",
+        "coin": "Peso cubano"
+    },
+    {
+        "id": 132,
+        "acronym": "CV",
+        "name": "Cabo Verde",
+        "language": "Português",
+        "capital": "Praia",
+        "coin": "Escudo cabo-verdiano"
+    },
+    {
+        "id": 196,
+        "acronym": "CY",
+        "name": "Chipre",
+        "language": "Grego",
+        "capital": "Nicósia",
+        "coin": "Euro"
+    },
+    {
+        "id": 203,
+        "acronym": "CZ",
+        "name": "República Tcheca",
+        "language": "Tcheco",
+        "capital": "Praga",
+        "coin": "Coroa tcheca"
+    },
+    {
+        "id": 276,
+        "acronym": "DE",
+        "name": "Alemanha",
+        "language": "Alemão",
+        "capital": "Berlim",
+        "coin": "Euro"
+    },
+    {
+        "id": 262,
+        "acronym": "DJ",
+        "name": "Djibouti",
+        "language": "Árabe",
+        "capital": "Djibuti",
+        "coin": "Franco do Djibuti"
+    },
+    {
+        "id": 208,
+        "acronym": "DK",
+        "name": "Dinamarca",
+        "language": "Dinamarquês",
+        "capital": "Copenhague",
+        "coin": "Coroa dinamarquesa"
+    },
+    {
+        "id": 212,
+        "acronym": "DM",
+        "name": "Dominica",
+        "language": "Inglês",
+        "capital": "Roseau",
+        "coin": "Dólar do Caribe Oriental"
+    },
+    {
+        "id": 214,
+        "acronym": "DO",
+        "name": "República Dominicana",
+        "language": "Espanhol",
+        "capital": "São Domingo",
+        "coin": "Peso dominicano"
+    },
+    {
+        "id": 12,
+        "acronym": "DZ",
+        "name": "Argélia",
+        "language": "Árabe",
+        "capital": "Argel",
+        "coin": "Dinar argelino"
+    },
+    {
+        "id": 218,
+        "acronym": "EC",
+        "name": "Equador",
+        "language": "Espanhol",
+        "capital": "Quito",
+        "coin": "Dólar americano"
+    },
+    {
+        "id": 233,
+        "acronym": "EE",
+        "name": "Estônia",
+        "language": "Estoniano",
+        "capital": "Tallinn",
+        "coin": "Euro"
+    },
+    {
+        "id": 818,
+        "acronym": "EG",
+        "name": "Egito",
+        "language": "Árabe",
+        "capital": "Cairo",
+        "coin": "Libra egípcia"
+    },
+    {
+        "id": 232,
+        "acronym": "ER",
+        "name": "Eritréia",
+        "language": "Árabe",
+        "capital": "Asmara",
+        "coin": "Nakfa"
+    },
+    {
+        "id": 724,
+        "acronym": "ES",
+        "name": "Espanha",
+        "language": "Espanhol",
+        "capital": "Madrid",
+        "coin": "Euro"
+    },
+    {
+        "id": 231,
+        "acronym": "ET",
+        "name": "Etiópia",
+        "language": "Amárico",
+        "capital": "Adis-Abeba",
+        "coin": "Birr da Etiópia"
+    },
+    {
+        "id": 246,
+        "acronym": "FI",
+        "name": "Finlândia",
+        "language": "Finlandês",
+        "capital": "Helsinque",
+        "coin": "Euro"
+    },
+    {
+        "id": 242,
+        "acronym": "FJ",
+        "name": "Fiji",
+        "language": "Fijano",
+        "capital": "Suva",
+        "coin": "Dólar de Fiji"
+    },
+    {
+        "id": 583,
+        "acronym": "FM",
+        "name": "Micronésia",
+        "language": "Inglês",
+        "capital": "Palikir",
+        "coin": "Dólar americano"
+    },
+    {
+        "id": 250,
+        "acronym": "FR",
+        "name": "França",
+        "language": "Francês",
+        "capital": "Paris",
+        "coin": "Euro"
+    },
+    {
+        "id": 266,
+        "acronym": "GA",
+        "name": "Gabão",
+        "language": "Francês",
+        "capital": "Libreville",
+        "coin": "Franco CFA"
+    },
+    {
+        "id": 826,
+        "acronym": "GB",
+        "name": "Reino Unido",
+        "language": "Inglês",
+        "capital": "Londres",
+        "coin": "Libra esterlina"
+    },
+    {
+        "id": 308,
+        "acronym": "GD",
+        "name": "Granada",
+        "language": "Inglês",
+        "capital": "St. George´s",
+        "coin": "Dólar do Caribe Oriental"
+    },
+    {
+        "id": 268,
+        "acronym": "GE",
+        "name": "Geórgia",
+        "language": "Georgiano",
+        "capital": "Tbilisi",
+        "coin": "Lari da Geórgia"
+    },
+    {
+        "id": 288,
+        "acronym": "GH",
+        "name": "Gana",
+        "language": "Inglês",
+        "capital": "Acra",
+        "coin": "Cedi de Gana"
+    },
+    {
+        "id": 270,
+        "acronym": "GM",
+        "name": "Gâmbia",
+        "language": "Inglês",
+        "capital": "Banjul",
+        "coin": "Dalasi da Gâmbia"
+    },
+    {
+        "id": 324,
+        "acronym": "GN",
+        "name": "Guiné",
+        "language": "Francês",
+        "capital": "Conacri",
+        "coin": "Franco da Guiné"
+    },
+    {
+        "id": 226,
+        "acronym": "GQ",
+        "name": "Guiné Equatorial",
+        "language": "Espanhol",
+        "capital": "Malabo",
+        "coin": "Franco CFA"
+    },
+    {
+        "id": 300,
+        "acronym": "GR",
+        "name": "Grécia",
+        "language": "Grego",
+        "capital": "Atenas",
+        "coin": "Euro"
+    },
+    {
+        "id": 320,
+        "acronym": "GT",
+        "name": "Guatemala",
+        "language": "Espanhol",
+        "capital": "Cidade da Guatemala",
+        "coin": "Quetzal da Guatemala"
+    },
+    {
+        "id": 624,
+        "acronym": "GW",
+        "name": "Guiné-Bissau",
+        "language": "Português",
+        "capital": "Bissau",
+        "coin": "Franco CFA"
+    },
+    {
+        "id": 328,
+        "acronym": "GY",
+        "name": "Guiana",
+        "language": "Inglês",
+        "capital": "Georgetown",
+        "coin": "Dólar guianense"
+    },
+    {
+        "id": 340,
+        "acronym": "HN",
+        "name": "Honduras",
+        "language": "Espanhol",
+        "capital": "Tegucigalpa",
+        "coin": "Lempira das Honduras"
+    },
+    {
+        "id": 191,
+        "acronym": "HR",
+        "name": "Croácia",
+        "language": "Croata",
+        "capital": "Zagreb",
+        "coin": "Kuna"
+    },
+    {
+        "id": 332,
+        "acronym": "HT",
+        "name": "Haiti",
+        "language": "Francês",
+        "capital": "Porto Príncipe",
+        "coin": "Gourde do Haiti"
+    },
+    {
+        "id": 348,
+        "acronym": "HU",
+        "name": "Hungria",
+        "language": "Húngaro",
+        "capital": "Budapeste",
+        "coin": "Florim húngaro"
+    },
+    {
+        "id": 360,
+        "acronym": "ID",
+        "name": "Indonésia",
+        "language": "Indonésio",
+        "capital": "Jacarta",
+        "coin": "Rupia indonésia"
+    },
+    {
+        "id": 372,
+        "acronym": "IE",
+        "name": "Irlanda",
+        "language": "Irlandês",
+        "capital": "Dublin",
+        "coin": "Euro"
+    },
+    {
+        "id": 376,
+        "acronym": "IL",
+        "name": "Israel",
+        "language": "Hebraico",
+        "capital": "Jerusalém",
+        "coin": "Novo shekel israelense"
+    },
+    {
+        "id": 356,
+        "acronym": "IN",
+        "name": "Índia",
+        "language": "Hindi",
+        "capital": "Nova Délhi",
+        "coin": "Rupia indiana"
+    },
+    {
+        "id": 368,
+        "acronym": "IQ",
+        "name": "Iraque",
+        "language": "Árabe",
+        "capital": "Bagdá",
+        "coin": "Dinar iraquiano"
+    },
+    {
+        "id": 364,
+        "acronym": "IR",
+        "name": "Irã",
+        "language": "Persa",
+        "capital": "Teerã",
+        "coin": "Rial iraniano"
+    },
+    {
+        "id": 352,
+        "acronym": "IS",
+        "name": "Islândia",
+        "language": "Islandês",
+        "capital": "Reykjavik",
+        "coin": "Coroa islandesa"
+    },
+    {
+        "id": 380,
+        "acronym": "IT",
+        "name": "Itália",
+        "language": "Italiano",
+        "capital": "Roma",
+        "coin": "Euro"
+    },
+    {
+        "id": 388,
+        "acronym": "JM",
+        "name": "Jamaica",
+        "language": "Inglês",
+        "capital": "Kingston",
+        "coin": "Dólar jamaicano"
+    },
+    {
+        "id": 400,
+        "acronym": "JO",
+        "name": "Jordânia",
+        "language": "Árabe",
+        "capital": "Amã",
+        "coin": "Dinar jordaniano"
+    },
+    {
+        "id": 392,
+        "acronym": "JP",
+        "name": "Japão",
+        "language": "Japonês",
+        "capital": "Tóquio",
+        "coin": "Iene"
+    },
+    {
+        "id": 404,
+        "acronym": "KE",
+        "name": "Quênia",
+        "language": "Suaíle",
+        "capital": "Nairóbi",
+        "coin": "Xelim queniano"
+    },
+    {
+        "id": 417,
+        "acronym": "KG",
+        "name": "Quirguistão",
+        "language": "Quirguiz",
+        "capital": "Bishkek",
+        "coin": "Som"
+    },
+    {
+        "id": 116,
+        "acronym": "KH",
+        "name": "Camboja",
+        "language": "Khmer",
+        "capital": "Phnom Penh",
+        "coin": "Riel"
+    },
+    {
+        "id": 296,
+        "acronym": "KI",
+        "name": "Kiribati",
+        "language": "Ikiribati",
+        "capital": "Bairiki",
+        "coin": "Dólar australiano"
+    },
+    {
+        "id": 174,
+        "acronym": "KM",
+        "name": "Comores",
+        "language": "Árabe",
+        "capital": "Moroni",
+        "coin": "Franco comoriano"
+    },
+    {
+        "id": 659,
+        "acronym": "KN",
+        "name": "São Cristóvão e Nevis",
+        "language": "Inglês",
+        "capital": "Basseterre",
+        "coin": "Dólar do Caribe Oriental"
+    },
+    {
+        "id": 408,
+        "acronym": "KP",
+        "name": "República Popular Democrática da Coréia",
+        "language": "Coreano",
+        "capital": "Pyongyang",
+        "coin": "Won norte-coreano"
+    },
+    {
+        "id": 410,
+        "acronym": "KR",
+        "name": "República da Coréia",
+        "language": "Coreano",
+        "capital": "Seul",
+        "coin": "Won sul-coreano"
+    },
+    {
+        "id": 414,
+        "acronym": "KW",
+        "name": "Kuwait",
+        "language": "Árabe",
+        "capital": "Cidade do Kuwait",
+        "coin": "Dinar kuwaitiano"
+    },
+    {
+        "id": 398,
+        "acronym": "KZ",
+        "name": "Cazaquistão",
+        "language": "Cazaque",
+        "capital": "Astana",
+        "coin": "Tenge"
+    },
+    {
+        "id": 418,
+        "acronym": "LA",
+        "name": "Laos",
+        "language": "Laosiano",
+        "capital": "Vientiane",
+        "coin": "Quipe"
+    },
+    {
+        "id": 422,
+        "acronym": "LB",
+        "name": "Líbano",
+        "language": "Árabe",
+        "capital": "Beirute",
+        "coin": "Libra libanesa"
+    },
+    {
+        "id": 662,
+        "acronym": "LC",
+        "name": "Santa Lúcia",
+        "language": "Inglês",
+        "capital": "Castries",
+        "coin": "Dólar do Caribe Oriental"
+    },
+    {
+        "id": 438,
+        "acronym": "LI",
+        "name": "Liechtenstein",
+        "language": "Alemão",
+        "capital": "Vaduz",
+        "coin": "Franco suíço"
+    },
+    {
+        "id": 144,
+        "acronym": "LK",
+        "name": "Sri Lanka",
+        "language": "Sinhala",
+        "capital": "Sri Jayewardenepura Kotte / Colombo",
+        "coin": "Rúpia do Sri Lanka"
+    },
+    {
+        "id": 430,
+        "acronym": "LR",
+        "name": "Libéria",
+        "language": "Inglês",
+        "capital": "Monróvia",
+        "coin": "Dólar liberiano"
+    },
+    {
+        "id": 426,
+        "acronym": "LS",
+        "name": "Lesoto",
+        "language": "Inglês",
+        "capital": "Maseru",
+        "coin": "Loti"
+    },
+    {
+        "id": 440,
+        "acronym": "LT",
+        "name": "Lituânia",
+        "language": "Lituano",
+        "capital": "Vilnius",
+        "coin": "Euro"
+    },
+    {
+        "id": 442,
+        "acronym": "LU",
+        "name": "Luxemburgo",
+        "language": "Luxembureguês",
+        "capital": "Luxemburgo",
+        "coin": "Euro"
+    },
+    {
+        "id": 428,
+        "acronym": "LV",
+        "name": "Letônia",
+        "language": "Letão",
+        "capital": "Riga",
+        "coin": "Euro"
+    },
+    {
+        "id": 434,
+        "acronym": "LY",
+        "name": "Líbia",
+        "language": "Árabe",
+        "capital": "Trípoli",
+        "coin": "Dinar líbio"
+    },
+    {
+        "id": 504,
+        "acronym": "MA",
+        "name": "Marrocos",
+        "language": "Árabe",
+        "capital": "Rabat",
+        "coin": "Dirham marroquino"
+    },
+    {
+        "id": 492,
+        "acronym": "MC",
+        "name": "Mônaco",
+        "language": "Francês",
+        "capital": "Cidade de Mônaco",
+        "coin": "Euro"
+    },
+    {
+        "id": 498,
+        "acronym": "MD",
+        "name": "Moldávia",
+        "language": "Romeno",
+        "capital": "Chisinau",
+        "coin": "Leu maldávio"
+    },
+    {
+        "id": 499,
+        "acronym": "ME",
+        "name": "Montenegro",
+        "language": "Sérvio",
+        "capital": "Podgorica",
+        "coin": "Euro"
+    },
+    {
+        "id": 450,
+        "acronym": "MG",
+        "name": "Madagáscar",
+        "language": "Francês",
+        "capital": "Antananarivo",
+        "coin": "Ariari de Madagascar"
+    },
+    {
+        "id": 584,
+        "acronym": "MH",
+        "name": "Ilhas Marshall",
+        "language": "Inglês",
+        "capital": "Majuro",
+        "coin": "Dólar americano"
+    },
+    {
+        "id": 807,
+        "acronym": "MK",
+        "name": "Macedônia do Norte",
+        "language": "Macedônio",
+        "capital": "Skopje",
+        "coin": "Dinar macedônio"
+    },
+    {
+        "id": 466,
+        "acronym": "ML",
+        "name": "Mali",
+        "language": "Francês",
+        "capital": "Bamaco",
+        "coin": "Franco CFA"
+    },
+    {
+        "id": 104,
+        "acronym": "MM",
+        "name": "Mianmar",
+        "language": "Birmanês",
+        "capital": "Nepiedó",
+        "coin": "Quiate"
+    },
+    {
+        "id": 496,
+        "acronym": "MN",
+        "name": "Mongólia",
+        "language": "Mongol",
+        "capital": "Ulan Bator",
+        "coin": "Tugrik"
+    },
+    {
+        "id": 478,
+        "acronym": "MR",
+        "name": "Mauritânia",
+        "language": "Árabe",
+        "capital": "Nuakchott",
+        "coin": "Ouguiya"
+    },
+    {
+        "id": 470,
+        "acronym": "MT",
+        "name": "Malta",
+        "language": "Maltês",
+        "capital": "Valeta",
+        "coin": "Euro"
+    },
+    {
+        "id": 480,
+        "acronym": "MU",
+        "name": "Maurício",
+        "language": "Inglês",
+        "capital": "Port Louis",
+        "coin": "Rupia mauriciana"
+    },
+    {
+        "id": 462,
+        "acronym": "MV",
+        "name": "Maldivas",
+        "language": "Dhivehi",
+        "capital": "Male",
+        "coin": "Rufia"
+    },
+    {
+        "id": 454,
+        "acronym": "MW",
+        "name": "Malauí",
+        "language": "Inglês",
+        "capital": "Lilongue",
+        "coin": "Quacha do Maláui"
+    },
+    {
+        "id": 484,
+        "acronym": "MX",
+        "name": "México",
+        "language": "Espanhol",
+        "capital": "Cidade do México",
+        "coin": "Peso mexicano"
+    },
+    {
+        "id": 458,
+        "acronym": "MY",
+        "name": "Malásia",
+        "language": "Malaio",
+        "capital": "Putrajaya / Kuala Lampur",
+        "coin": "Ringgit"
+    },
+    {
+        "id": 508,
+        "acronym": "MZ",
+        "name": "Moçambique",
+        "language": "Português",
+        "capital": "Maputo",
+        "coin": "Metical"
+    },
+    {
+        "id": 516,
+        "acronym": "NA",
+        "name": "Namíbia",
+        "language": "Inglês",
+        "capital": "Windhoek",
+        "coin": "Dólar namibiano"
+    },
+    {
+        "id": 562,
+        "acronym": "NE",
+        "name": "Níger",
+        "language": "Francês",
+        "capital": "Niamei",
+        "coin": "Franco CFA"
+    },
+    {
+        "id": 566,
+        "acronym": "NG",
+        "name": "Nigéria",
+        "language": "Inglês",
+        "capital": "Abuja",
+        "coin": "Naira"
+    },
+    {
+        "id": 558,
+        "acronym": "NI",
+        "name": "Nicarágua",
+        "language": "Espanhol",
+        "capital": "Manágua",
+        "coin": "Córdoba Ouro"
+    },
+    {
+        "id": 528,
+        "acronym": "NL",
+        "name": "Holanda",
+        "language": "Holandês",
+        "capital": "Amsterdã",
+        "coin": "Euro"
+    },
+    {
+        "id": 578,
+        "acronym": "NO",
+        "name": "Noruega",
+        "language": "Norueguês",
+        "capital": "Oslo",
+        "coin": "Coroa norueguesa"
+    },
+    {
+        "id": 524,
+        "acronym": "NP",
+        "name": "Nepal",
+        "language": "Nepali",
+        "capital": "Katmandu",
+        "coin": "Rúpia nepalesa"
+    },
+    {
+        "id": 520,
+        "acronym": "NR",
+        "name": "Nauru",
+        "language": "Nauruano",
+        "capital": "Yaren",
+        "coin": "Dólar australiano"
+    },
+    {
+        "id": 554,
+        "acronym": "NZ",
+        "name": "Nova Zelândia",
+        "language": "Inglês",
+        "capital": "Wellington",
+        "coin": "Dólar Neozelandês"
+    },
+    {
+        "id": 512,
+        "acronym": "OM",
+        "name": "Omã",
+        "language": "Árabe",
+        "capital": "Mascate",
+        "coin": "Rial omanense"
+    },
+    {
+        "id": 591,
+        "acronym": "PA",
+        "name": "Panamá",
+        "language": "Espanhol",
+        "capital": "Cidade do Panamá",
+        "coin": "Balboa"
+    },
+    {
+        "id": 604,
+        "acronym": "PE",
+        "name": "Peru",
+        "language": "Espanhol",
+        "capital": "Lima",
+        "coin": "Novo sol"
+    },
+    {
+        "id": 598,
+        "acronym": "PG",
+        "name": "Papua Nova Guiné",
+        "language": "Inglês",
+        "capital": "Porto Moresby",
+        "coin": "Kina"
+    },
+    {
+        "id": 608,
+        "acronym": "PH",
+        "name": "Filipinas",
+        "language": "Filipino",
+        "capital": "Manila",
+        "coin": "Peso filipino"
+    },
+    {
+        "id": 586,
+        "acronym": "PK",
+        "name": "Paquistão",
+        "language": "Urdu",
+        "capital": "Islamabad",
+        "coin": "Rúpia paquistanesa"
+    },
+    {
+        "id": 616,
+        "acronym": "PL",
+        "name": "Polônia",
+        "language": "Polonês",
+        "capital": "Varsóvia",
+        "coin": "Zloty"
+    },
+    {
+        "id": 620,
+        "acronym": "PT",
+        "name": "Portugal",
+        "language": "Português",
+        "capital": "Lisboa",
+        "coin": "Euro"
+    },
+    {
+        "id": 585,
+        "acronym": "PW",
+        "name": "Palau",
+        "language": "Inglês",
+        "capital": "Melekeok",
+        "coin": "Dólar americano"
+    },
+    {
+        "id": 600,
+        "acronym": "PY",
+        "name": "Paraguai",
+        "language": "Espanhol",
+        "capital": "Assunção",
+        "coin": "Guarani"
+    },
+    {
+        "id": 634,
+        "acronym": "QA",
+        "name": "Catar",
+        "language": "Árabe",
+        "capital": "Doha",
+        "coin": "Rial do Catar"
+    },
+    {
+        "id": 642,
+        "acronym": "RO",
+        "name": "Romênia",
+        "language": "Romeno",
+        "capital": "Bucareste",
+        "coin": "Leu romeno"
+    },
+    {
+        "id": 688,
+        "acronym": "RS",
+        "name": "Sérvia",
+        "language": "Sérvio",
+        "capital": "Belgrado",
+        "coin": "Dinar sérvio"
+    },
+    {
+        "id": 643,
+        "acronym": "RU",
+        "name": "Rússia (Federação Russa)",
+        "language": "Russo",
+        "capital": "Moscou",
+        "coin": "Rublo russo"
+    },
+    {
+        "id": 646,
+        "acronym": "RW",
+        "name": "Ruanda",
+        "language": "Francês",
+        "capital": "Kigali",
+        "coin": "Franco ruandês"
+    },
+    {
+        "id": 682,
+        "acronym": "SA",
+        "name": "Arábia Saudita",
+        "language": "Árabe",
+        "capital": "Riad",
+        "coin": "Rial saudita"
+    },
+    {
+        "id": 90,
+        "acronym": "SB",
+        "name": "Ilhas Salomão",
+        "language": "Inglês",
+        "capital": "Honiara",
+        "coin": "Dólar das Ilhas Salomão"
+    },
+    {
+        "id": 690,
+        "acronym": "SC",
+        "name": "Seichelles",
+        "language": "Crioulo",
+        "capital": "Vitória",
+        "coin": "Rupia das Seychelles"
+    },
+    {
+        "id": 729,
+        "acronym": "SD",
+        "name": "Sudão",
+        "language": "Árabe",
+        "capital": "Cartum",
+        "coin": "Libra sudanesa"
+    },
+    {
+        "id": 752,
+        "acronym": "SE",
+        "name": "Suécia",
+        "language": "Sueco",
+        "capital": "Estocolmo",
+        "coin": "Coroa sueca"
+    },
+    {
+        "id": 702,
+        "acronym": "SG",
+        "name": "Singapura",
+        "language": "Malaio",
+        "capital": "Cidade de Singapura",
+        "coin": "Dólar de Singapura"
+    },
+    {
+        "id": 705,
+        "acronym": "SI",
+        "name": "Eslovênia",
+        "language": "Esloveno",
+        "capital": "Liubliana",
+        "coin": "Euro"
+    },
+    {
+        "id": 703,
+        "acronym": "SK",
+        "name": "Eslováquia",
+        "language": "Eslovaco",
+        "capital": "Bratislava",
+        "coin": "Euro"
+    },
+    {
+        "id": 694,
+        "acronym": "SL",
+        "name": "Serra Leoa",
+        "language": "Inglês",
+        "capital": "Freetown",
+        "coin": "Leone"
+    },
+    {
+        "id": 674,
+        "acronym": "SM",
+        "name": "San Marino",
+        "language": "Italiano",
+        "capital": "San Marino",
+        "coin": "Euro"
+    },
+    {
+        "id": 686,
+        "acronym": "SN",
+        "name": "Senegal",
+        "language": "Francês",
+        "capital": "Dacar",
+        "coin": "Franco CFA"
+    },
+    {
+        "id": 706,
+        "acronym": "SO",
+        "name": "Somália",
+        "language": "Árabe",
+        "capital": "Mogadíscio",
+        "coin": "Xelim somali"
+    },
+    {
+        "id": 740,
+        "acronym": "SR",
+        "name": "Suriname",
+        "language": "Holandês",
+        "capital": "Paramaribo",
+        "coin": "Dólar surinamês"
+    },
+    {
+        "id": 728,
+        "acronym": "SS",
+        "name": "Sudão do Sul",
+        "language": "Inglês",
+        "capital": "Juba",
+        "coin": "Libra sul-sudanesa"
+    },
+    {
+        "id": 678,
+        "acronym": "ST",
+        "name": "São Tomé e Príncipe",
+        "language": "Português",
+        "capital": "São Tomé",
+        "coin": "Dobra"
+    },
+    {
+        "id": 222,
+        "acronym": "SV",
+        "name": "El Salvador",
+        "language": "Espanhol",
+        "capital": "São Salvador",
+        "coin": "Cólon salvadorenho"
+    },
+    {
+        "id": 760,
+        "acronym": "SY",
+        "name": "Síria",
+        "language": "Árabe",
+        "capital": "Damasco",
+        "coin": "Libra síria"
+    },
+    {
+        "id": 748,
+        "acronym": "SZ",
+        "name": "Eswatini",
+        "language": "Inglês",
+        "capital": "Mbabane / Lobamba",
+        "coin": "Lilangeni"
+    },
+    {
+        "id": 148,
+        "acronym": "TD",
+        "name": "Chade",
+        "language": "Árabe",
+        "capital": "Ndjamena",
+        "coin": "Franco CFA"
+    },
+    {
+        "id": 768,
+        "acronym": "TG",
+        "name": "Togo",
+        "language": "Francês",
+        "capital": "Lomé",
+        "coin": "Franco CFA"
+    },
+    {
+        "id": 764,
+        "acronym": "TH",
+        "name": "Tailândia",
+        "language": "Tai",
+        "capital": "Bangcoc",
+        "coin": "Baht"
+    },
+    {
+        "id": 762,
+        "acronym": "TJ",
+        "name": "Tadjiquistão",
+        "language": "Tadjique",
+        "capital": "Duchambe",
+        "coin": "Somoni"
+    },
+    {
+        "id": 626,
+        "acronym": "TL",
+        "name": "Timor Leste",
+        "language": "Português",
+        "capital": "Dili",
+        "coin": "Dólar americano"
+    },
+    {
+        "id": 795,
+        "acronym": "TM",
+        "name": "Turcomenistão",
+        "language": "Turcomano",
+        "capital": "Ashkhabad",
+        "coin": "Novo Manat do Turcomenistão"
+    },
+    {
+        "id": 788,
+        "acronym": "TN",
+        "name": "Tunísia",
+        "language": "Árabe",
+        "capital": "Túnis",
+        "coin": "Dinar tunisiano"
+    },
+    {
+        "id": 776,
+        "acronym": "TO",
+        "name": "Tonga",
+        "language": "Tonganês",
+        "capital": "Nukualofa",
+        "coin": "Pa´anga"
+    },
+    {
+        "id": 792,
+        "acronym": "TR",
+        "name": "Turquia",
+        "language": "Turco",
+        "capital": "Ankara",
+        "coin": "Lira turca"
+    },
+    {
+        "id": 780,
+        "acronym": "TT",
+        "name": "Trinidad e Tobago",
+        "language": "Inglês",
+        "capital": "Port of Spain",
+        "coin": "Dólar de Trinidad e Tobago"
+    },
+    {
+        "id": 798,
+        "acronym": "TV",
+        "name": "Tuvalu",
+        "language": "Inglês",
+        "capital": "Funafuti",
+        "coin": "Dólar australiano"
+    },
+    {
+        "id": 834,
+        "acronym": "TZ",
+        "name": "Tanzânia",
+        "language": "Kiswahili",
+        "capital": "Dar es Salaam / Dodoma",
+        "coin": "Xelim tanzaniano"
+    },
+    {
+        "id": 804,
+        "acronym": "UA",
+        "name": "Ucrânia",
+        "language": "Ucraniano",
+        "capital": "Kiev",
+        "coin": "Hyvnia"
+    },
+    {
+        "id": 800,
+        "acronym": "UG",
+        "name": "Uganda",
+        "language": "Inglês",
+        "capital": "Campala",
+        "coin": "Xelim ugandense"
+    },
+    {
+        "id": 840,
+        "acronym": "US",
+        "name": "Estados Unidos da América",
+        "language": "Inglês",
+        "capital": "Washington D.C.",
+        "coin": "Dólar americano"
+    },
+    {
+        "id": 858,
+        "acronym": "UY",
+        "name": "Uruguai",
+        "language": "Espanhol",
+        "capital": "Montevidéu",
+        "coin": "Peso uruguaio"
+    },
+    {
+        "id": 860,
+        "acronym": "UZ",
+        "name": "Uzbequistão",
+        "language": "Uzbeque",
+        "capital": "Tashkent",
+        "coin": "Som uzbeque"
+    },
+    {
+        "id": 670,
+        "acronym": "VC",
+        "name": "São Vicente e Granadinas",
+        "language": "Inglês",
+        "capital": "Kingstown",
+        "coin": "Dólar do Caribe Oriental"
+    },
+    {
+        "id": 862,
+        "acronym": "VE",
+        "name": "Venezuela",
+        "language": "Espanhol",
+        "capital": "Caracas",
+        "coin": "Bolívar soberano"
+    },
+    {
+        "id": 704,
+        "acronym": "VN",
+        "name": "Vietnã",
+        "language": "Vietnamita",
+        "capital": "Hanói",
+        "coin": "Dongue"
+    },
+    {
+        "id": 548,
+        "acronym": "VU",
+        "name": "Vanuatu",
+        "language": "Bislama",
+        "capital": "Porto-Vila",
+        "coin": "Vatu"
+    },
+    {
+        "id": 882,
+        "acronym": "WS",
+        "name": "Samoa",
+        "language": "Samoano",
+        "capital": "Ápia",
+        "coin": "Tala"
+    },
+    {
+        "id": 887,
+        "acronym": "YE",
+        "name": "Iêmen",
+        "language": "Árabe",
+        "capital": "Sana / Aden",
+        "coin": "Rial iemenita"
+    },
+    {
+        "id": 710,
+        "acronym": "ZA",
+        "name": "África do Sul",
+        "language": "Africâner",
+        "capital": "Pretória / Cape Town / Bloemfontein",
+        "coin": "Rand"
+    },
+    {
+        "id": 894,
+        "acronym": "ZM",
+        "name": "Zâmbia",
+        "language": "Inglês",
+        "capital": "Lusaca",
+        "coin": "Quacha zambiana"
+    },
+    {
+        "id": 716,
+        "acronym": "ZW",
+        "name": "Zimbábue",
+        "language": "Inglês",
+        "capital": "Harare",
+        "coin": "Dolar zimbabueano"
+    }
+]

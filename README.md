@@ -16,7 +16,7 @@ $ git clone https://github.com/rodrigocdpadua/Vobys_t.git
 ```
 Entre no diretório do projeto:
 ```shell
-$ cd mobieduca
+$ cd Vobys_t
 ```
 ## Instalando pacotes
 Rode o seguinte comando:

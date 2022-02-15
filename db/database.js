@@ -5,7 +5,7 @@ async function clientC() {
         host: 'localhost',
         user: 'postgres',
         password: '123456',
-        database: 'teste',
+        database: 'vobys_t',
         port: 5432
     });
 }
